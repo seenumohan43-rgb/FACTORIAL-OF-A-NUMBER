@@ -54,12 +54,31 @@ END
 ```
 OUTPUT
 
-<img width="700" height="205" alt="fact" src="https://github.com/user-attachments/assets/9c7275ab-1ca8-4b41-b9b7-7450b8cf1454" />
 
+
+<img width="600" height="900" alt="MPMC(FACT)" src="https://github.com/user-attachments/assets/9a237fd5-4f22-4a46-bec5-c98b9378df6e" />
+
+
+
+
+
+
+
+
+
+
+<img width="600" height="900" alt="MPMC(FACT1)" src="https://github.com/user-attachments/assets/2689d7bf-d1a6-42ba-a9e7-943548987212" />
+
+---
 MANUAL CALCULATIONS
+![WhatsApp Image 2025-11-09 at 14 54 29_03d45be4](https://github.com/user-attachments/assets/4b919a79-31d7-421e-878b-b0f703f6c400)
 
-![img](https://github.com/user-attachments/assets/e459d401-8fc5-414a-8ee3-be93f7eb6165)
+---
 
 RESULT
 
 Thus, the factorial of a number was calculated and executed successfully using 8051 Keil.
+
+---
+
+
